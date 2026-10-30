@@ -2,7 +2,7 @@
 Component Name,Vendor,Specific Purchase Link,Price (USD),Price (MYR),Quantity,Purpose
 "RP2040 USB-C Core Board","Shopee","https://shopee.com.my/search?keyword=RP2040%20Core%20Board%20TYPE-C",3.39,13.78,1,"Main keyboard controller with onboard flash memory, voltage regulation and USB-C"
 "Blank White PBT Keycap Set - 87 Key Variation","Shopee Malaysia","https://shopee.com.my/Fynmi-Cherry-Profile-Blank-White-PBT-keycaps-61-keys-to-145-keys-Original-Dye-Sublimation-keycaps-i.1108166654.25787830969",11.70,47.05,1,"Completely blank white keycaps with no legends for all 87 keys"
-"3-Pin MX-Compatible Mechanical Switches","Keychron Malaysia","https://keychron.net.my/products/cherry-mx2a-switch-set?variant=45984931348724",6.88,27.94,90,"Soldered key switches plus 3 spares"
+"3-Pin MX-Compatible Mechanical Switches","Keychron Malaysia","https://www.keychron.com/products/cherry-mx2a-switch-set?srsltid=AYCX9vJ8i0FRSorRyT5YEzrgMjE6MdQSC5wU-cuA2QKEgK5TY7Cf8_RL",45,182.56,90,"Soldered key switches plus 3 spares"
 "PCB-Mount Stabilizer Set","Shopee Malaysia","https://shopee.com.my/Holy-Panda-WhitePINK-Plate-Mounted-Mechanical-Keyboard-Stabilizers-(Plate-Mount)-i.71961069.13138221918",2.90,11.46,1,"Stabilizes four 2U keys and one 6.25U spacebar"
 "1N4148 Switching Diodes - 100 Pack","Shopee","https://shopee.com.my/product/1073678744/21984096162",1.11,4.50,1,"One diode per key in the 87-key matrix with spares"
 "1.3-inch 128x64 OLED Display Module","Shopee","https://shopee.com.my/product/550994225/16243897327",3.05,12.38,1,"Keyboard status and information display"
@@ -11,4 +11,4 @@ Component Name,Vendor,Specific Purchase Link,Price (USD),Price (MYR),Quantity,Pu
 "Custom 3D-Printed Case","Print Legion Hack Club","https://printlegion.hackclub.com/",TBD,TBD,1,"Enclosure for keyboard electronics and structure"
 "Keyboard Plate","Custom fabrication","TBD",TBD,TBD,1,"Supports and aligns mechanical switches"
 "M3 Screws and Heat-Set Inserts","To be selected","TBD",TBD,TBD,1 set,"Secures case and PCB together"
-"TOTAL","",,26.20,106.37,,"Priced components only; excludes PCB fabrication, case, plate, mounting hardware, shipping and taxes"
+"TOTAL","",,64.32,260.95,,"Priced components only; excludes PCB fabrication, case, plate, mounting hardware, shipping and taxes"
