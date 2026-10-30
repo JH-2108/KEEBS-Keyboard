@@ -1,0 +1,32 @@
+
+Component,Specification,Purpose,Quantity,Unit Price (MYR),Total Price (MYR),Vendor,Purchase Link,Notes
+Cherry MX Switches,Cherry MX2A,Mechanical key switches,90,3.23,291.00,Akeycap,https://www.akeycaps.com/,87 required + 3 spares
+Keycaps,87-key PBT TKL Set,Key surfaces,1,32.45,32.45,Shopee,https://shopee.com.my/,ANSI TKL layout
+OLED Display,1.3-inch 128x64 I2C,Side information display,1,14.00,14.00,KitsGuru,https://kitsguru.com/,Confirm controller and dimensions
+Rotary Encoder,EC11 with push button,Volume and menu control,1,1.80,1.80,Shopee,https://shopee.com.my/,Include encoder knob
+RP2040,RP2040 QFN-56,Main microcontroller,1,TBD,TBD,TBD,https://www.raspberrypi.com/products/rp2040/,Bare IC
+Flash Memory,W25Q128JVSIQ,Firmware storage,1,TBD,TBD,TBD,https://www.winbond.com/,128 Mbit SPI flash
+Crystal,12 MHz,Microcontroller clock,1,TBD,TBD,TBD,TBD,TBD,Confirm RP2040 reference design
+USB-C Connector,USB 2.0 PCB mount,USB connectivity,1,TBD,TBD,TBD,TBD,TBD,Select footprint before ordering
+USB ESD Protection,USB protection IC,USB data protection,1,TBD,TBD,TBD,TBD,TBD,Select compatible IC
+Voltage Regulator,3.3V regulator,Power regulation,1,TBD,TBD,TBD,TBD,TBD,Select based on power architecture
+Resistors,5.1k ohm,USB-C CC configuration,2,TBD,TBD,TBD,TBD,TBD,
+Resistors,27 ohm,USB data-line series resistors,2,TBD,TBD,TBD,TBD,TBD,Verify USB routing design
+Resistor,1M ohm,Crystal circuit,1,TBD,TBD,TBD,TBD,TBD,Verify reference schematic
+Capacitors,100nF,Power decoupling,8,TBD,TBD,TBD,TBD,TBD,
+Capacitors,1-10uF,Power filtering,4,TBD,TBD,TBD,TBD,TBD,
+Capacitor,47uF,Bulk power filtering,1,TBD,TBD,TBD,TBD,TBD,
+Keyboard Diodes,1N4148W,Keyboard matrix scanning,87,TBD,TBD,TBD,TBD,TBD,One per switch
+Reset Button,Tactile push button,Microcontroller reset,1,TBD,TBD,TBD,TBD,TBD,
+BOOTSEL Button,Tactile push button,Bootloader access,1,TBD,TBD,TBD,TBD,TBD,
+SWD Header,2x3 pin header,Debugging and programming,1,TBD,TBD,TBD,TBD,TBD,
+Stabilizers,MX-compatible TKL set,Stabilize larger keys,1,TBD,TBD,TBD,TBD,TBD,Confirm layout compatibility
+Switch Plate,ANSI TKL plate,Switch mounting,1,TBD,TBD,TBD,TBD,TBD,
+Custom PCB,80% TKL PCB,Main electronics board,1,TBD,TBD,TBD,TBD,TBD,Custom KiCad design
+3D Printed Enclosure,Custom TKL housing,Keyboard housing,1,TBD,TBD,TBD,TBD,TBD,
+Display Mount,Custom 3D printed,Display mounting,1,TBD,TBD,TBD,TBD,TBD,
+Encoder Knob,EC11 compatible,Rotary encoder control,1,TBD,TBD,TBD,TBD,TBD,
+M2 Screws,M2 assorted lengths,Enclosure assembly,12,TBD,TBD,TBD,TBD,TBD,
+M2 Heat-set Inserts,M2 brass inserts,Threaded mounting points,12,TBD,TBD,TBD,TBD,TBD,
+Rubber Feet,Adhesive rubber feet,Keyboard stability,4,TBD,TBD,TBD,TBD,TBD,
+USB-C Cable,USB-C data cable,Computer connectivity,1,TBD,TBD,TBD,TBD,TBD,
